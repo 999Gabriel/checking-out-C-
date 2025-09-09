@@ -1,0 +1,15 @@
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/bin/Debug/net9.0/numberGuesser
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/bin/Debug/net9.0/numberGuesser.deps.json
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/bin/Debug/net9.0/numberGuesser.runtimeconfig.json
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/bin/Debug/net9.0/numberGuesser.dll
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/bin/Debug/net9.0/numberGuesser.pdb
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.AssemblyInfoInputs.cache
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.AssemblyInfo.cs
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.csproj.CoreCompileInputs.cache
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.sourcelink.json
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.dll
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/refint/numberGuesser.dll
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.pdb
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/numberGuesser.genruntimeconfig.cache
+/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/Debug/net9.0/ref/numberGuesser.dll

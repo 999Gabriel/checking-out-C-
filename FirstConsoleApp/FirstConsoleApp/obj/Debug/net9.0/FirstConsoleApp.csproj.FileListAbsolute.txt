@@ -1,0 +1,15 @@
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.deps.json
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.runtimeconfig.json
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.dll
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.pdb
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.AssemblyInfoInputs.cache
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.AssemblyInfo.cs
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.sourcelink.json
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.dll
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/refint/FirstConsoleApp.dll
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.pdb
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.genruntimeconfig.cache
+/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/net9.0/ref/FirstConsoleApp.dll
