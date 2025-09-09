@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/FirstConsoleApp.csproj",
+      "projectUniqueName": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/FirstConsoleApp/FirstConsoleApp.csproj",
       "projectName": "FirstConsoleApp",
-      "projectPath": "/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/FirstConsoleApp.csproj",
+      "projectPath": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/FirstConsoleApp/FirstConsoleApp.csproj",
       "packagesPath": "/Users/gabriel/.nuget/packages/",
-      "outputPath": "/Users/gabriel/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/",
+      "outputPath": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/FirstConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gabriel/.nuget/NuGet/NuGet.Config"

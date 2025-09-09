@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numberGuesser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f1b01bde4268c8bc901a9160fcb0fde60785972")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7be7c6df1662f7e9eed71c9c5f486e7fba05f0ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("numberGuesser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numberGuesser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

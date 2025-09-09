@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/numberGuesser.csproj": {}
+    "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/numberGuesser/numberGuesser.csproj": {}
   },
   "projects": {
-    "/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/numberGuesser.csproj": {
+    "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/numberGuesser/numberGuesser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/numberGuesser.csproj",
+        "projectUniqueName": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/numberGuesser/numberGuesser.csproj",
         "projectName": "numberGuesser",
-        "projectPath": "/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/numberGuesser.csproj",
+        "projectPath": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/numberGuesser/numberGuesser.csproj",
         "packagesPath": "/Users/gabriel/.nuget/packages/",
-        "outputPath": "/Users/gabriel/RiderProjects/FirstConsoleApp/numberGuesser/obj/",
+        "outputPath": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/numberGuesser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gabriel/.nuget/NuGet/NuGet.Config"

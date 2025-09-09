@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabriel/RiderProjects/FirstConsoleApp/basicStuffTry/basicStuffTry.csproj",
+      "projectUniqueName": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/basicStuffTry/basicStuffTry.csproj",
       "projectName": "basicStuffTry",
-      "projectPath": "/Users/gabriel/RiderProjects/FirstConsoleApp/basicStuffTry/basicStuffTry.csproj",
+      "projectPath": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/basicStuffTry/basicStuffTry.csproj",
       "packagesPath": "/Users/gabriel/.nuget/packages/",
-      "outputPath": "/Users/gabriel/RiderProjects/FirstConsoleApp/basicStuffTry/obj/",
+      "outputPath": "/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/basicStuffTry/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gabriel/.nuget/NuGet/NuGet.Config"
