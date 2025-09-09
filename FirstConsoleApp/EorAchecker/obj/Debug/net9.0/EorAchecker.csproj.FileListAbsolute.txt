@@ -1,0 +1,15 @@
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/bin/Debug/net9.0/EorAchecker
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/bin/Debug/net9.0/EorAchecker.deps.json
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/bin/Debug/net9.0/EorAchecker.runtimeconfig.json
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/bin/Debug/net9.0/EorAchecker.dll
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/bin/Debug/net9.0/EorAchecker.pdb
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.AssemblyInfoInputs.cache
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.AssemblyInfo.cs
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.csproj.CoreCompileInputs.cache
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.sourcelink.json
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.dll
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/refint/EorAchecker.dll
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.pdb
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/EorAchecker.genruntimeconfig.cache
+/Users/gabriel/RiderProjects/checking-out-C-/FirstConsoleApp/EorAchecker/obj/Debug/net9.0/ref/EorAchecker.dll
