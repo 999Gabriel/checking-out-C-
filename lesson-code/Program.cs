@@ -1,4 +1,4 @@
-namespace Csharp
+namespace Grundlagen_CSharp;
 {
     public class Program
     {
